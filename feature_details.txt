@@ -1,0 +1,1 @@
+This file contains details about a new feature for SCM-project.
